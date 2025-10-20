@@ -6,10 +6,10 @@ This project provides a modular solution for analyzing Google Form responses usi
 
 The analysis is split into 4 focused notebooks that pass data between each other:
 
-1. **`1_get_google_form_responses.ipynb`** - Fetch form data via Google API
-2. **`2_preprocess_data.ipynb`** - Clean and vectorize text responses  
-3. **`3_apply_clustering.ipynb`** - Apply HDBSCAN clustering
-4. **`4_summarise_results.ipynb`** - Generate insights and final outputs
+1. **`1_dataGathering.ipynb`** - Fetch form data via Google API
+2. **`2_preprocessData.ipynb`** - Clean and vectorize text responses  
+3. **`3_clustering.ipynb`** - Apply HDBSCAN clustering
+4. **`4_summarise.ipynb`** - Generate insights and final outputs
 
 ## Features
 
